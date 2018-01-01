@@ -2,6 +2,11 @@
 
 > A Vue.js Date Picker
 
+
+## Demo
+
+you can try [here](https://ibrahimaddandan.000webhostapp.com/VuejsDatePicker/index.html#/)
+
 ## Build Setup
 
 ``` bash
